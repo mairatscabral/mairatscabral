@@ -1,7 +1,7 @@
 ## <h1 align="center">👋 Olá, eu sou Maíra Cabral!</h1>
 
 <p align="center">
-📊 Estudante de Dados | 💻 Desenvolvedor Frontend | 🎓 Graduando em Sistemas de Informação na UFPE
+📊 Estudante de Dados | 💻 Desenvolvedora Frontend | 🎓 Graduanda em Sistemas de Informação na UFPE
 </p>
 
 ### 🚀 Sobre mim
